@@ -19,5 +19,7 @@ Responsive design (mobile friendly)
 🛠 Tech Stack
 
 HTML
-CSS3
+
+CSS
+
 JavaScript (Vanilla)
